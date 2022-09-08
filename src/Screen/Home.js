@@ -1,7 +1,8 @@
-import React from 'react'
+import React from 'react';
+import "./Styled/Home.css";
 
 export default function Home() {
   return (
-    <div>Homeddd</div>
+    <div>Home</div>
   )
 }

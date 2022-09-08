@@ -1,0 +1,27 @@
+.HeaderBody{
+    display: flex;
+    height: auto;
+    width: 95%;
+    margin-left: 2.5%;
+    border-radius: 10px;
+    margin-top: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: transparent;
+}
+.HeaderTite{
+    flex-direction: row;
+    display: flex;
+}
+.HeaderTiteButton{
+    background-color: transparent;
+    border: none;
+}
+.HeaderTiteIcon{
+    font-size: 30px;
+}
+.HeaderTiteIcon:hover{
+    color: rgb(7, 196, 86);
+}
+.HeaderTiteHide{
+    display: hide;
+}
